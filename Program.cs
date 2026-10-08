@@ -10,7 +10,7 @@ namespace ConsoleApp13
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello");
+            Console.Write("Hello, Bohdana");
             Console.ReadKey();
         }
     }
